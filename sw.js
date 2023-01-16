@@ -8,7 +8,7 @@ const info = {
     domain: "page.661111.gq",
     //endstatic: "static.wexa.top",
     //domain: "wexa.215213344.xyz",
-    //endstatic: "static.215213344.xyz",
+    endstatic: "static.215213344.xyz",
     https: 1
 }
 const CACHE_NAME = `Wexagonal@${info.version}`;
